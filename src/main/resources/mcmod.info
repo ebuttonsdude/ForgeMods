@@ -1,0 +1,16 @@
+[
+{
+  "modid": "avidmod",
+  "name": "Avid's Mod",
+  "description": "This is a cool mod that I am making that isnt finished at all",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AvidGamer0"],
+  "credits": "The Forge and FML guys, for making life easier",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

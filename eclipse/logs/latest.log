@@ -1,0 +1,32 @@
+[10:52:40] [main/INFO]: Setting user: Player359
+[10:52:44] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:53:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Avid's Mod
+[10:53:05] [Sound Library Loader/INFO]: Sound engine started
+[10:53:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[10:53:09] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[10:53:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Avid's Mod
+[10:53:11] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[10:53:11] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[10:53:12] [Sound Library Loader/INFO]: Sound engine started
+[10:53:37] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[10:53:37] [Server thread/INFO]: Generating keypair
+[10:53:38] [Server thread/INFO]: Preparing start region for level 0
+[10:53:39] [Server thread/INFO]: Preparing spawn area: 1%
+[10:53:40] [Server thread/INFO]: Preparing spawn area: 44%
+[10:53:42] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:53:43] [Server thread/INFO]: Player359[local:E:6c9f79da] logged in with entity id 306 at (236.65061848813588, 69.0, 251.62350792298963)
+[10:53:43] [Server thread/INFO]: Player359 joined the game
+[10:53:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2858ms behind, skipping 57 tick(s)
+[10:53:49] [Server thread/INFO]: Player359 has just earned the achievement [Taking Inventory]
+[10:53:50] [Client thread/INFO]: [CHAT] Player359 has just earned the achievement [Taking Inventory]
+[10:54:15] [Server thread/INFO]: Saving and pausing game...
+[10:54:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:54:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:54:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:54:16] [Server thread/INFO]: Stopping server
+[10:54:16] [Server thread/INFO]: Saving players
+[10:54:16] [Server thread/INFO]: Saving worlds
+[10:54:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:54:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:54:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:54:21] [Client thread/INFO]: Stopping!
