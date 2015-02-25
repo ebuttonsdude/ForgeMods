@@ -14,6 +14,8 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
+import net.minecraft.init.Items;
+import net.minecraft.item.ItemStack;
 
 @Mod(modid = Constants.MODID, name = Constants.MODNAME, version = Constants.VERSION)
 
@@ -38,6 +40,7 @@ public class avidmod {
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
         /** Init is for adding TileEntities, events, renderer’s*/
+        GameRegistry.addRecipe(new ItemStack(ModItems.itemAvid), new Object[] {"###", " I ", " I ", '#', ModBlocks.blockofish, 'I', Items.stick});
     }
 
     @Mod.EventHandler
