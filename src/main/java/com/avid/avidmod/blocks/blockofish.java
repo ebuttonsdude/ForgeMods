@@ -13,6 +13,7 @@ public class blockofish extends Block {
     public blockofish(){
 
         super(Material.iron);
+        this.setHardness(2.2F);
         this.setCreativeTab(CreativeTabs.tabRedstone);
         this.setBlockName(Constants.MODID + "_" + name);
         setBlockTextureName(Constants.MODID + ":" + name);
