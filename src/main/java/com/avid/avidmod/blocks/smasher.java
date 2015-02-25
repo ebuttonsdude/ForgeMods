@@ -33,8 +33,4 @@ public class smasher extends Block implements ITileEntityProvider {
 
         return true;
     }
-
-    public enum GUIs {
-        SMASHER
-    }
 }
